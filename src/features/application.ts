@@ -1,0 +1,1 @@
+export {default as useHomeService} from "./home/application/home_service";

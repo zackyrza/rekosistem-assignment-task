@@ -1,0 +1,1 @@
+export {default as ModalNativeModule} from './modal';

@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "525500999187",
+    "project_id": "reko-assignment-task",
+    "storage_bucket": "reko-assignment-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525500999187:android:335f80ed13967da0aa01e6",
+        "android_client_info": {
+          "package_name": "com.rekosistemassignmenttask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525500999187-6jo6dkjp4cru0gup0m7tquh3a3aof5pj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rekosistemassignmenttask",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "525500999187-hu4khuipqurvdbpp99j6gme68ijagnj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rekosistemassignmenttask",
+            "certificate_hash": "7232cc75013c2e8715db6a4da3a062e1ddc0b161"
+          }
+        },
+        {
+          "client_id": "525500999187-ftibuih9orbr2mk9jb5rlpfs0ut13q5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKxihf_rXu9JWz86XtFgdGiab1mku8MAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525500999187-1ci6oe8cn9d1p32bue1uv4285981m1lq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "525500999187-itfscul5net966kh8pfe45n1q55ci8rk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.rekosistemAssignmentTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
